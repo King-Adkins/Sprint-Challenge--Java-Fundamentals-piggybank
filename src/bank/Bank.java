@@ -4,7 +4,7 @@ public class Bank {
 	public double value;
 	public int quantity;
 	public Bank(int quantity) {
-		this.quantity = quantity
+		this.quantity = quantity;
 	}
 
 	public Bank() {
